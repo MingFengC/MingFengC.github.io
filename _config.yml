@@ -7,11 +7,11 @@ description: Chua Ming Feng's professional Artificial Intelligence (AI) Engineer
 # User settings
 username: Chua Ming Feng
 user_description: I am currently an Associate AI Engineer at AI Singapore. I hold a Bachelor of Science (Hons) in Data Science and Analytics from the National University of Singapore, with an exchange semester at the University of North Carolina at Chapel Hill. I am passionate about artificial intelligence, machine learning, and building robust AI systems for deployment.
-user_title: Software Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+user_interests: 🤖 I’m passionate about AI, with key interests in large language models (LLMs), computer vision, and recommendation systems. I enjoy applying these technologies to solve real-world problems—from language understanding and visual perception to personalized recommendations. 🛠️ Currently, I’m exploring LLM architectures, fine-tuning, and full-stack deployments, while continuing hands-on work in 3D reconstruction and generative visual models. 🚀 I also build and manage scalable ML pipelines using Docker, Kubernetes, and Google Cloud Platform (GCP), with a strong focus on MLOps practices like CI/CD, model versioning, and monitoring. 📚 I believe in continuous learning and actively stay updated with the latest AI advancements through research, side projects, and engagement with the tech community.
+user_title: AI Engineer
+email: mingfengchua825@gmail.com
+github_username:  MingFengC
+linkedin: https://www.linkedin.com/in/mingfengc825
 
 # Google-analytics
 google-analytics:
